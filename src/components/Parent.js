@@ -19,7 +19,7 @@ const Parent = () => {
                 <button value="Option 2" onClick={handleClick}>Option 2</button>
             </div>
             <div className='selectedOption'>
-               <p>Selected Option: {selectedOption}</p>
+             <p>Selected Option: {selectedOption}</p>
             </div>
         </div>
     </div>
