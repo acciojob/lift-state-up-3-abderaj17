@@ -1,1 +1,21 @@
 
+.parent{
+    background-color: rgb(93, 234, 93);
+    width: 400px;
+    height: 350px;
+    padding: 10px;
+}
+.child1{
+    background-color: brown;
+    padding: 10px;
+    margin: 10px;
+}
+.child2{
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+.selectedOption{
+    margin: 10px;
+    /* padding: 10px; */
+}
